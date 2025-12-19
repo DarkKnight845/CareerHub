@@ -93,7 +93,6 @@ CareerHub/
 │   │   ├── models.py            # SQLAlchemy models
 │   │   ├── app.db               # SQLite database
 │   │   └── load.py              # Database initialization
-│   └── __pycache__/
 ├── model/
 │   ├── recommender.py           # Semantic recommendation engine
 │   └── cache/                   # Cached embeddings
